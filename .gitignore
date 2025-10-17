@@ -1,4 +1,10 @@
+venv/
 .venv/
-db.sqlite3
-pycache
+*.sqlite3
+*.sqlite
+*.db3
+__pycache__/
+*.py[cod]
 .idea
+.vscode/
+.pytest_cache/
